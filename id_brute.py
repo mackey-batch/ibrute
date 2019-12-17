@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#python id_brute.py pic of password macbatch@hotmail.com# -*- coding: utf-8 -*-
 #
 #hackapp.com
 #@hackappcom  p0c for FindMyIphone bug
